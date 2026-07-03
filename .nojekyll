@@ -1,0 +1,2 @@
+# Tells GitHub Pages not to process this site using Jekyll.
+# This ensures folders starting with an underscore (like _next/) are served correctly.
