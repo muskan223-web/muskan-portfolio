@@ -12,7 +12,7 @@ export function DaVinciIcon({ size = 80 }: IconProps) {
       style={{ width: size, height: size }}
     >
       <img
-        src="/icons/davinci.jpg"
+        src="/muskan-portfolio/icons/davinci.jpg"
         alt="DaVinci Resolve Logo"
         width={size}
         height={size}
@@ -30,7 +30,7 @@ export function CapCutIcon({ size = 80 }: IconProps) {
       style={{ width: size, height: size }}
     >
       <img
-        src="/icons/capcut.png"
+        src="/muskan-portfolio/icons/capcut.png"
         alt="CapCut Logo"
         width={size}
         height={size}
@@ -48,7 +48,7 @@ export function CanvaIcon({ size = 80 }: IconProps) {
       style={{ width: size, height: size }}
     >
       <img
-        src="/icons/canva.jpg"
+        src="/muskan-portfolio/icons/canva.jpg"
         alt="Canva Logo"
         width={size}
         height={size}

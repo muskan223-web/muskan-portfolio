@@ -98,10 +98,10 @@ export const profile = {
   ],
 
   // Portrait image/video — place in /public/images/
-  heroImage: "/images/hero section image.mp4",
+  heroImage: "/muskan-portfolio/images/hero section image.mp4",
 
   // Background silhouette — place in /public/images/
-  bgSilhouette: "/images/full body image.jpeg",
+  bgSilhouette: "/muskan-portfolio/images/full body image.jpeg",
 
   // Resume PDF — set to null to hide the download button
   resumeUrl: null,

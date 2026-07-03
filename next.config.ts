@@ -2,6 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export", // Enables static HTML export for GitHub Pages
+  basePath: "/muskan-portfolio", // Required for free github.io subfolder hosting
   images: {
     unoptimized: true, // Required for static export
     remotePatterns: [
