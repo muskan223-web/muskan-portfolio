@@ -126,10 +126,9 @@ export default function ContactSection() {
                   />
                 </div>
                 <div>
-                  <p className="text-xs text-ink-muted uppercase tracking-wider mb-1">
+                  <p className="text-xs text-ink-muted uppercase tracking-wider">
                     {link.label}
                   </p>
-                  <p className="font-medium text-ink text-sm">{link.value}</p>
                 </div>
               </motion.a>
             </FadeIn>
